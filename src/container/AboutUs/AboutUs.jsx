@@ -28,8 +28,7 @@ const AboutUs = () => (
         </h1>
         <img src={images.spoon} alt="spoon" className='spoon__image' />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.
-        </p>
+          Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.      </p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
